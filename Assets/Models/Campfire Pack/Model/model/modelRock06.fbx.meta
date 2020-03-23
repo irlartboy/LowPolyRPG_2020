@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6ecf4dac0534aed4182e5b249a47a1a0
+guid: 0ca5b407c33ade644807028a7bb41b63
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable:
@@ -17,7 +17,7 @@ ModelImporter:
     second: //RootNode
   - first:
       43: 4300000
-    second: modelRock01
+    second: modelRock03
   - first:
       95: 9500000
     second: //RootNode
@@ -25,8 +25,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Tx_Rock01
-    second: {fileID: 2100000, guid: 916d8554cb088a54fa9fadf8ffc37fca, type: 2}
+      name: Tx_Rock03
+    second: {fileID: 2100000, guid: 86830e5eccccfdd439e261aa7a30ab7f, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -57,7 +57,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.1
+    globalScale: 0.5
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -103,7 +103,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.1
+    globalScale: 0.5
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

@@ -16,7 +16,7 @@ public class Movement_Player : MonoBehaviour
 
     private void Start()
     {
-        playerController = this.GetComponent<CharacterController>();
+        playerController = GetComponent<CharacterController>();
     }
 
     private void Update()
